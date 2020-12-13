@@ -1,0 +1,15 @@
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaUI.exe.config
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaUI.exe
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaUI.pdb
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaNegocio.dll
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaDatos.dll
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaNegocio.pdb
+C:\Users\julio\source\repos\3capas\CapaUI\bin\Debug\CapaDatos.pdb
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.csprojAssemblyReference.cache
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.Form1.resources
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.Properties.Resources.resources
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.csproj.GenerateResource.cache
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.csproj.CopyComplete
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.exe
+C:\Users\julio\source\repos\3capas\CapaUI\obj\Debug\CapaUI.pdb
