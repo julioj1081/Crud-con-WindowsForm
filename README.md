@@ -8,12 +8,14 @@ Se relacionan de la siguiente manera.
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);">
   <div class="one" style=" border: 1px solid black;">
+ <h5>CapaDatos</h5>
     <ul>
       <li>using System.Data;</li>
       <li>using System.Data.SqlClient;</li>
     </ul>
   </div>
   <div class="two" style=" border: 1px solid black;">
+ <h5>CapaNegocio</h5>
     <ul>
       <li>using System.Data;</li>
       <li>using System.Data.SqlClient;</li>
@@ -21,6 +23,7 @@ Se relacionan de la siguiente manera.
     </ul>
   </div>
   <div class="three" style=" border: 1px solid black;">
+ <h5>CapaUI</h5>
     <ul>
       <li>using CapaNegocio;</li>
     </ul>
